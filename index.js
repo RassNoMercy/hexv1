@@ -27,8 +27,15 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 
 (async () => {
 
-  console.log(`Trophy And Crown Hack Safe! [ReEdit]
-By : ${chalk.bold('RassGMS')} - Credit : @iChiro& @Lmao
+  console.log(`Trophy And Crown Hack ! ! !
+  
+  ██████╗░░█████╗░░██████╗░██████╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝
+██████╔╝███████║╚█████╗░╚█████╗░
+██╔══██╗██╔══██║░╚═══██╗░╚═══██╗
+██║░░██║██║░░██║██████╔╝██████╔╝
+╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═════╝░
+By : ${chalk.bold('RassGMS')} - Team : @iChiro & @Larz
 `);
 
   const auth = rs.question('Enter Authentication Code! : ');
